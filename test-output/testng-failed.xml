@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.pwi.controllers.WarehouseTestController">
+        <methods>
+          <include name="create"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.pwi.controllers.WarehouseTestController -->
+      <class name="com.pwi.controllers.InventoryTestController">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.pwi.controllers.InventoryTestController -->
+      <class name="com.pwi.controllers.BrandTestController">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.pwi.controllers.BrandTestController -->
+      <class name="com.pwi.controllers.CompanyTestController">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.pwi.controllers.CompanyTestController -->
+      <class name="com.pwi.controllers.CountryTestController">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.pwi.controllers.CountryTestController -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

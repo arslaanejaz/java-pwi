@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="25" passed="25">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="375" started-at="2018-03-28T22:33:27Z" finished-at="2018-03-28T22:33:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="375" started-at="2018-03-28T22:33:27Z" finished-at="2018-03-28T22:33:28Z">
+      <class name="com.pwi.controllers.BrandTestController">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pwi.controllers.BrandTestController@192d3247]" name="setUp" is-config="true" duration-ms="2" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createBrand()[pri:0, instance:com.pwi.controllers.BrandTestController@192d3247]" name="createBrand" duration-ms="3" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBrand -->
+        <test-method status="PASS" signature="deleteBrand()[pri:0, instance:com.pwi.controllers.BrandTestController@192d3247]" name="deleteBrand" duration-ms="2" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBrand -->
+        <test-method status="PASS" signature="getByIdBrand()[pri:0, instance:com.pwi.controllers.BrandTestController@192d3247]" name="getByIdBrand" duration-ms="2" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getByIdBrand -->
+        <test-method status="PASS" signature="getListBrand()[pri:0, instance:com.pwi.controllers.BrandTestController@192d3247]" name="getListBrand" duration-ms="2" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListBrand -->
+        <test-method status="PASS" signature="updateBrand()[pri:0, instance:com.pwi.controllers.BrandTestController@192d3247]" name="updateBrand" duration-ms="1" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBrand -->
+      </class> <!-- com.pwi.controllers.BrandTestController -->
+      <class name="com.pwi.controllers.CountryTestController">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pwi.controllers.CountryTestController@569cfc36]" name="setUp" is-config="true" duration-ms="216" started-at="2018-03-29T03:33:27Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createCountry()[pri:0, instance:com.pwi.controllers.CountryTestController@569cfc36]" name="createCountry" duration-ms="41" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCountry -->
+        <test-method status="PASS" signature="deleteCountry()[pri:0, instance:com.pwi.controllers.CountryTestController@569cfc36]" name="deleteCountry" duration-ms="5" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCountry -->
+        <test-method status="PASS" signature="getByIdCountry()[pri:0, instance:com.pwi.controllers.CountryTestController@569cfc36]" name="getByIdCountry" duration-ms="1" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getByIdCountry -->
+        <test-method status="PASS" signature="getListCountry()[pri:0, instance:com.pwi.controllers.CountryTestController@569cfc36]" name="getListCountry" duration-ms="2" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListCountry -->
+        <test-method status="PASS" signature="updateCountry()[pri:0, instance:com.pwi.controllers.CountryTestController@569cfc36]" name="updateCountry" duration-ms="2" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateCountry -->
+      </class> <!-- com.pwi.controllers.CountryTestController -->
+      <class name="com.pwi.controllers.CompanyTestController">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pwi.controllers.CompanyTestController@3ecd23d9]" name="setUp" is-config="true" duration-ms="2" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createCompany()[pri:0, instance:com.pwi.controllers.CompanyTestController@3ecd23d9]" name="createCompany" duration-ms="1" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCompany -->
+        <test-method status="PASS" signature="deleteCompany()[pri:0, instance:com.pwi.controllers.CompanyTestController@3ecd23d9]" name="deleteCompany" duration-ms="1" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCompany -->
+        <test-method status="PASS" signature="getByIdCompany()[pri:0, instance:com.pwi.controllers.CompanyTestController@3ecd23d9]" name="getByIdCompany" duration-ms="1" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getByIdCompany -->
+        <test-method status="PASS" signature="getListCompany()[pri:0, instance:com.pwi.controllers.CompanyTestController@3ecd23d9]" name="getListCompany" duration-ms="1" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListCompany -->
+        <test-method status="PASS" signature="updateCompany()[pri:0, instance:com.pwi.controllers.CompanyTestController@3ecd23d9]" name="updateCompany" duration-ms="1" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateCompany -->
+      </class> <!-- com.pwi.controllers.CompanyTestController -->
+      <class name="com.pwi.controllers.WarehouseTestController">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pwi.controllers.WarehouseTestController@74ad1f1f]" name="setUp" is-config="true" duration-ms="2" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createWarehouse()[pri:0, instance:com.pwi.controllers.WarehouseTestController@74ad1f1f]" name="createWarehouse" duration-ms="3" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createWarehouse -->
+        <test-method status="PASS" signature="deleteWarehouse()[pri:0, instance:com.pwi.controllers.WarehouseTestController@74ad1f1f]" name="deleteWarehouse" duration-ms="1" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteWarehouse -->
+        <test-method status="PASS" signature="getByIdWarehouse()[pri:0, instance:com.pwi.controllers.WarehouseTestController@74ad1f1f]" name="getByIdWarehouse" duration-ms="2" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getByIdWarehouse -->
+        <test-method status="PASS" signature="getListWarehouse()[pri:0, instance:com.pwi.controllers.WarehouseTestController@74ad1f1f]" name="getListWarehouse" duration-ms="1" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListWarehouse -->
+        <test-method status="PASS" signature="updateWarehouse()[pri:0, instance:com.pwi.controllers.WarehouseTestController@74ad1f1f]" name="updateWarehouse" duration-ms="2" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateWarehouse -->
+      </class> <!-- com.pwi.controllers.WarehouseTestController -->
+      <class name="com.pwi.controllers.InventoryTestController">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pwi.controllers.InventoryTestController@7cbd213e]" name="setUp" is-config="true" duration-ms="17" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createInventory()[pri:0, instance:com.pwi.controllers.InventoryTestController@7cbd213e]" name="createInventory" duration-ms="2" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createInventory -->
+        <test-method status="PASS" signature="deleteInventory()[pri:0, instance:com.pwi.controllers.InventoryTestController@7cbd213e]" name="deleteInventory" duration-ms="1" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteInventory -->
+        <test-method status="PASS" signature="getByIdInventory()[pri:0, instance:com.pwi.controllers.InventoryTestController@7cbd213e]" name="getByIdInventory" duration-ms="1" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getByIdInventory -->
+        <test-method status="PASS" signature="getListInventory()[pri:0, instance:com.pwi.controllers.InventoryTestController@7cbd213e]" name="getListInventory" duration-ms="5" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListInventory -->
+        <test-method status="PASS" signature="updateInventory()[pri:0, instance:com.pwi.controllers.InventoryTestController@7cbd213e]" name="updateInventory" duration-ms="3" started-at="2018-03-29T03:33:28Z" finished-at="2018-03-29T03:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateInventory -->
+      </class> <!-- com.pwi.controllers.InventoryTestController -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
