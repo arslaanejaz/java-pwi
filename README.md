@@ -1,9 +1,9 @@
 <h2>Development Technologies and tools:</h2>
-Operating System: Ubuntu 16.04
-IDE: Spring Tool Suite
-Other Plugins: Test NG for Eclipse
-Server: tomcat8
-Spring 4, Hibernate 4, MySql 5, Tomcat 8, Java 8, Maven, TestNG, Mockito.
+<p>Operating System: Ubuntu 16.04</p>
+<p>IDE: Spring Tool Suite</p>
+<p>Other Plugins: Test NG for Eclipse</p>
+<p>Server: tomcat8</p>
+<p>Spring 4, Hibernate 4, MySql 5, Tomcat 8, Java 8, Maven, TestNG, Mockito.</p>
 
 <h2>configurations</h2>
 <p>Change accordingly src/main/resources/application.properties file for database connection</p>
