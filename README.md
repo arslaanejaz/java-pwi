@@ -16,7 +16,7 @@
 
 <h3>Purpose:</h3>
 
-<p>This document provides a very basic  architectural overview of the system. I will also try to suggest the future improvements in the system, security of the system and efficiency of the application and will explain about few things that where the part of my development plan but left out because of by busy schedule.</p>
+<p>This document provides a very basic  architectural overview of the system. I will also try to suggest the future improvements in the system, security of the system and efficiency of the application and will explain about few things that are remaining remaining.</p>
 
 
 <h3>Solution Overview:</h3>
@@ -42,7 +42,7 @@ Architectural goal is to have efficient development and have full control on the
 
 
 <h2>Suggestions:</h2> 
-<p>Error handling should me be in more detail</p>
+<p>Error handling need more detail</p>
 <p>Error handling is not implemented for missing companies for country. And warehouse and brand for inventory. And country for warehouse</p>
 <p>Need formulas/solution to change the status of an individual product.</p>
 <p>Reports section need to be developed.</p>
